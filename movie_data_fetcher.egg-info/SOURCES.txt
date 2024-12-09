@@ -1,0 +1,10 @@
+setup.py
+boxoffice_fetcher/__init__.py
+movie_data_fetcher.egg-info/PKG-INFO
+movie_data_fetcher.egg-info/SOURCES.txt
+movie_data_fetcher.egg-info/dependency_links.txt
+movie_data_fetcher.egg-info/requires.txt
+movie_data_fetcher.egg-info/top_level.txt
+tmdb_fetcher/__init__.py
+tmdb_fetcher/data_retriever.py
+tmdb_fetcher/json_to_csv.py

@@ -1,0 +1,2 @@
+boxoffice_fetcher
+tmdb_fetcher
